@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.App {
+  padding: 20px;
+}
+.search {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 20px;
+  margin-left: 39px;
+}
+.table {
+  margin: 20px;
+  border: black solid 2px;
+  background-color: beige;
+}
+.table thead {
+  background-color: aqua;
+}
+.table tbody tr:nth-child(odd) {
+  background-color: darkgray;
+}
