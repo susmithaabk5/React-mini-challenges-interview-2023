@@ -1,0 +1,30 @@
+{
+  "Delivery Reports": [
+    "Daily",
+    "Total",
+    "Hourly",
+    "Weekly",
+    "Monthly"
+  ],
+  "Inventory Reports": [
+    "Daily",
+    "Supply Sources",
+    "Deals",
+    "Categories"
+  ],
+  "Audience Reports": [
+    "Daily",
+    "Audiences",
+    "Demographics"
+  ],
+  "Scheduled Reports": [
+    {
+      "name": "Conversion Tracker"
+    }
+  ],
+  "Deprecated Reports": [
+    "Useless A",
+    "Useless B"
+  ],
+  "Personal Reports": []
+}
